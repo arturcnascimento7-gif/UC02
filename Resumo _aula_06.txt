@@ -1,0 +1,26 @@
+Na Aula 06, aprendemos sobre as variáveis, alguns dados, como fazer alguns cálculos matemáticos como por exemplo a adição, subtração, multiplicação e divisão,
+também vimos como utilizar o Portugol  e fizemos algumas atividades nele para aprendermos a como fazer uma programação simples.
+As variáveis são números, nomes ou qualquer coisa que possa variar na hora de programar, já a constante é um nome, número ou algo que seja fixo.
+Também vimos como ter uma boa postura antes de utilizar o computador, manter a mesa sempre organizada, e a importância de fazer pausas durante o uso do computador.
+
+Exemplos de operações do Portugol:
+
+Adição:
+escreva("A soma de 20 + 20 é ", n1, "\n" )
+
+n1 = 20 + 20
+
+Subtração:
+escreva("A subtração de 20 - 20 é ", n1, "\n")
+
+n1 = 20 - 20 
+
+Multiplicação
+escreva("A multiplicação de 20 * 20 é ", n1, "\n")
+
+n1 = 20 * 20
+
+Divisão
+escreva("A divisão de 20 / 20 é ", n1, "\n" )
+
+n1 = 20 / 20
