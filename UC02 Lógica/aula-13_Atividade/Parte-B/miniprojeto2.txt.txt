@@ -1,0 +1,24 @@
+miniprojeto2
+
+Primero caso
+
+Passo                                         |  distanciaDaViagem   |  consumoDoCarro  |  precoDoLitro  |  litro  |  custoFinal  |  saída  |  saída  |
+    leia distanciaDaViagem                    |         [10]         |         ?        |        ?       |    ?    |       ?      |    ?    |    ?    |
+    leia consumoDoCarro                       |         [10]         |        [1]       |        ?       |    ?    |       ?      |    ?    |    ?    |
+    leia precoDoLitro                         |         [10]         |        [1]       |       [5]      |    ?    |       ?      |    ?    |    ?    |
+    litro = distanciaDaViagem / consumoDoCaro |         [10]         |        [1]       |       [5]      |   [10]  |       ?      |    ?    |    ?    |
+    custoFinal = litro * precoDoLitro         |         [10]         |        [1]       |       [5]      |   [10]  |      [50]    |    ?    |    ?    |
+    escreva litro                             |         [10]         |        [1]       |       [5]      |   [10]  |      [50]    |   {10}  |    ?    |
+    escreva custoFinal                        |         [10]         |        [1]       |       [5]      |   [10]  |      [50]    |   {10}  |   {50}  |
+
+
+Segundo caso
+
+Passo                                         |  distanciaDaViagem   |  consumoDoCarro  |  precoDoLitro  |  litro  |  custoFinal  |  saída  |  saída  |
+    leia distanciaDaViagem                    |         [250]        |         ?        |        ?       |    ?    |       ?      |    ?    |    ?    |
+    leia consumoDoCarro                       |         [250]        |        [10]      |        ?       |    ?    |       ?      |    ?    |    ?    |
+    leia precoDoLitro                         |         [250]        |        [10]      |       [15]     |    ?    |       ?      |    ?    |    ?    |
+    litro = distanciaDaViagem / consumoDoCaro |         [250]        |        [10]      |       [15]     |   [25]  |       ?      |    ?    |    ?    |
+    custoFinal = litro * precoDoLitro         |         [250]        |        [10]      |       [15]     |   [25]  |      [375]   |    ?    |    ?    |
+    escreva litro                             |         [250]        |        [10]      |       [15]     |   [25]  |      [375]   |   {25}  |    ?    |
+    escreva custoFinal                        |         [250]        |        [10]      |       [15]     |   [25]  |      [375]   |   {25}  |   {375} |
